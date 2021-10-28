@@ -1,0 +1,10 @@
+.banner{
+  background-image: url(https://images.unsplash.com/photo-1634151295857-5581ce6c82d1?ixid=MnwxMjA3fDB8MHxwaG90by1vZi10aGUtZGF5fHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format%2Ccompress&fit=crop&w=1000&h=1000);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 40vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
